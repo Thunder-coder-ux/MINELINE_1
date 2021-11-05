@@ -1,0 +1,22 @@
+#logo
+{
+    height: 100px;
+    width: 100px;
+}
+
+.body_background{
+    background-color: aquamarine;
+}
+
+#user_name{
+    width: 240px;
+    color: darkcyan;
+    background-color: darkslategrey;
+}
+
+#Login{
+    background-color: darkseagreen;
+    height: 40px;
+    width: 77px;
+    color: #808080;
+}
